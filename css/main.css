@@ -1,0 +1,12 @@
+h1 {
+	text-align: left;
+}
+p {
+font-style: bold;
+font-size: 2em;
+color: red;
+}
+footer .id {
+	width: 100px;
+	height: 200px;
+}
